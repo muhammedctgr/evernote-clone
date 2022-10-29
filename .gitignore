@@ -5,12 +5,16 @@
 /.pnp
 .pnp.js
 
+# SDKs and Keys
+firebaseConfig.js
+
 # testing
 /coverage
 
 # next.js
 /.next/
 /out/
+.history
 
 # production
 /build
