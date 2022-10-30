@@ -1,34 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Evernote-Clone 
 
-## Getting Started
+## Structure
 
-First, run the development server:
+* This is a fullstack project built using Next.js as the programming language, Tailwind for styling, Firebase for storage and Vercel for deployment.
+* This project is also in line with CRUD functionalities.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Evernote is note-taking software that helps you create and organize digital notes, Evernote brings your notes, to-dos, and schedule together to help you remember everything and accomplish anything. You can use it as a digital filing cabinet to organize all your notes, whether they're recipes, strategic plans for work, or a daily diary. It's a powerful organizational tool to assist with any number of projects for work or your day-to-day life.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![evernote-1](https://user-images.githubusercontent.com/73699892/198851724-5f78eef8-f89d-42a8-b1bc-fdef9be5b1bf.jpg)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![evernote](https://user-images.githubusercontent.com/73699892/198851729-a6967856-60bb-4811-abdb-9fb2b89f370c.jpg)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![firebase](https://user-images.githubusercontent.com/73699892/198851735-b19460d8-9d12-40f5-8bf7-00b099f8cba6.jpg)
